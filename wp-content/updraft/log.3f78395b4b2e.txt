@@ -1,0 +1,1007 @@
+0000.000 (0) Opened log file at time: Thu, 25 Jul 2024 04:19:19 +0000 on https://arupchattopadhyaydentalclinic.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.4 WP: 6.6.1 PHP: 8.2.14 (litespeed, Linux in-mum-web678.main-hosting.eu 4.18.0-513.9.1.lve.el7h.x86_64 #1 SMP Mon Dec 4 13:57:13 UTC 2023 x86_64) MySQL: 10.11.8-MariaDB-cll-lve (max packet size=1073741824) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 2048M (used: 4.9M | 6M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 (0) Free space on disk containing Updraft's temporary directory: 2586433 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.007 (0) Set semaphore last lock (fd) time to 2024-07-25 04:19:19
+0000.007 (0) Semaphore lock (fd) complete
+0000.009 (0) Backup run: resumption=0, nonce=3f78395b4b2e, file_nonce=3f78395b4b2e begun at=1721881159 (0s ago), job type=backup
+0000.010 (0) Scheduling a resumption (1) after 300 seconds (1721881459) in case this run gets aborted
+0000.040 (0) Checking if we have a zip executable available
+0000.041 (0) Testing: /usr/bin/zip
+0000.048 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.049 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.049 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.050 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.050 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.056 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.057 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.058 (0) Working binary zip found: /usr/bin/zip
+0000.059 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.060 (0) Creation of backups of directories: beginning
+0000.061 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.924 (0) Total entities for the zip file: 887 directories, 4545 files (0 skipped as non-modified), 72.8 MB
+0000.933 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.941 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.949 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.957 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.965 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.973 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.981 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.990 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.000 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.010 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.011 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.9 MB, 4545 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.004 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: size is now: 6.60 MB
+0002.014 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1100 files added (on-disk size: 6798.7 KB)
+0002.023 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1200 files added (on-disk size: 6798.7 KB)
+0002.032 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1300 files added (on-disk size: 6798.7 KB)
+0002.041 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1400 files added (on-disk size: 6798.7 KB)
+0002.050 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1500 files added (on-disk size: 6798.7 KB)
+0002.061 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1600 files added (on-disk size: 6798.7 KB)
+0002.071 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1700 files added (on-disk size: 6798.7 KB)
+0002.082 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1800 files added (on-disk size: 6798.7 KB)
+0002.093 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 1900 files added (on-disk size: 6798.7 KB)
+0002.099 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 4545 files batched, 957 (1958) added so far); re-opening (prior size: 6798.7 KB)
+0004.111 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: size is now: 17.70 MB
+0004.113 (0) A useful amount of data was added after this amount of zip processing: 2.3 s (normalised: 2.3 s, rate: 11261.1 KB/s)
+0004.114 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.276762008667, normalised_time=2.2733181758347, max_time=4.1133110523224, data points known=1, old_max_bytes=26214400, new_max_bytes=69188027)
+0004.118 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2000 files added (on-disk size: 18080.6 KB)
+0004.128 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2100 files added (on-disk size: 18080.6 KB)
+0004.138 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2200 files added (on-disk size: 18080.6 KB)
+0004.149 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2300 files added (on-disk size: 18080.6 KB)
+0004.160 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2400 files added (on-disk size: 18080.6 KB)
+0004.171 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2500 files added (on-disk size: 18080.6 KB)
+0004.183 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2600 files added (on-disk size: 18080.6 KB)
+0004.194 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2700 files added (on-disk size: 18080.6 KB)
+0004.205 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2800 files added (on-disk size: 18080.6 KB)
+0004.217 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 2900 files added (on-disk size: 18080.6 KB)
+0004.223 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.9 MB, 4545 files batched, 1001 (2959) added so far); re-opening (prior size: 18080.6 KB)
+0006.317 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: size is now: 22.20 MB
+0006.323 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3000 files added (on-disk size: 22723.5 KB)
+0006.336 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3100 files added (on-disk size: 22723.5 KB)
+0006.346 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3200 files added (on-disk size: 22723.5 KB)
+0006.355 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3300 files added (on-disk size: 22723.5 KB)
+0006.364 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3400 files added (on-disk size: 22723.5 KB)
+0006.374 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3500 files added (on-disk size: 22723.5 KB)
+0006.385 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3600 files added (on-disk size: 22723.5 KB)
+0006.395 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3700 files added (on-disk size: 22723.5 KB)
+0006.404 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3800 files added (on-disk size: 22723.5 KB)
+0006.417 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 3900 files added (on-disk size: 22723.5 KB)
+0006.431 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.3 MB, 4545 files batched, 1001 (3960) added so far); re-opening (prior size: 22723.5 KB)
+0008.013 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4000 files added (on-disk size: 26881.3 KB)
+0008.022 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4100 files added (on-disk size: 26881.3 KB)
+0008.030 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4200 files added (on-disk size: 26881.3 KB)
+0008.041 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4300 files added (on-disk size: 26881.3 KB)
+0008.051 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4400 files added (on-disk size: 26881.3 KB)
+0008.061 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.tmp: 4500 files added (on-disk size: 26881.3 KB)
+0009.240 (0) Creating zip file manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.list-temp.tmp)
+0009.261 (0) Successfully created zip file manifest (size: 373002)
+0009.744 (0) Created plugins zip (0) - 30714.5 KB in 9.7 s (3172.5 KB/s) (sha1: 01c13cd84dfea167b8304888c2132b99a5d36c08, sha256: 30a158f618aa3e4bc761fe8d5604fccd69852dcd8577c092485733e8863de1ee)
+0009.751 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.751 (0) No remote despatch: user chose no remote backup service
+0009.752 (0) Recording as successfully uploaded: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip
+0009.753 (0) Deleting zip manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip.list.tmp)
+0009.754 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.755 (0) Number of backup sets in history: 2; groups (db): 1
+0009.756 (0) Examining (for databases) backup set with group_id=0, nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0009.756 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.756 (0) Examining (for databases) backup set with group_id=0, nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0009.756 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.756 (0) Number of backup sets in history: 2; groups (files): 1
+0009.757 (0) Examining (for files) backup set with nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0009.757 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.757 (0) Examining (for files) backup set with nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0009.757 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.757 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0009.760 (0) Beginning creation of dump of themes (split every: 400 MB)
+0009.837 (0) Total entities for the zip file: 58 directories, 415 files (0 skipped as non-modified), 37.4 MB
+0009.847 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.855 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.864 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.873 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.968 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.tmp: size is now: 34.90 MB
+0011.973 (0) Creating zip file manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.list-temp.tmp)
+0011.975 (0) Successfully created zip file manifest (size: 31889)
+0012.552 (0) Created themes zip (0) - 35741.1 KB in 2.8 s (12944.3 KB/s) (sha1: 6845c2350d8199a3f5994945d7608486c4ebeaff, sha256: c35040fd73e953e1772614a77995b567b903817b553030bfb6483e15a9714de0)
+0012.555 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.556 (0) No remote despatch: user chose no remote backup service
+0012.556 (0) Recording as successfully uploaded: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip
+0012.557 (0) Deleting zip manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip.list.tmp)
+0012.559 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.559 (0) Number of backup sets in history: 2; groups (db): 1
+0012.560 (0) Examining (for databases) backup set with group_id=0, nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0012.560 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0012.560 (0) Examining (for databases) backup set with group_id=0, nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0012.560 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0012.560 (0) Number of backup sets in history: 2; groups (files): 1
+0012.561 (0) Examining (for files) backup set with nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0012.561 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0012.561 (0) Examining (for files) backup set with nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0012.561 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0012.561 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0012.563 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0012.564 (0) Looking for candidates to backup in: /home/u505426395/domains/arupchattopadhyaydentalclinic.com/public_html/wp-content/uploads
+0012.564 (0) finding files: custom_front_page: adding to list (1)
+0012.564 (0) finding files: wpforms: adding to list (2)
+0012.565 (0) finding files: 2024: adding to list (3)
+0012.565 (0) finding files: photo-gallery: adding to list (4)
+0012.565 (0) finding files: cache: adding to list (5)
+0012.565 (0) finding files: wpcf7_uploads: adding to list (6)
+0012.566 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0012.732 (0) Total entities for the zip file: 33 directories, 794 files (0 skipped as non-modified), 105.2 MB
+0012.741 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.749 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.757 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.765 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.773 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0012.781 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0012.785 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 66 MB added on this batch (66.3 MB, 794 files batched, 644 (644) added so far); re-opening (prior size: 0 KB)
+0017.250 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: size is now: 61.30 MB
+0017.252 (0) A useful amount of data was added after this amount of zip processing: 5.4 s (normalised: 5.4 s, rate: 12529 KB/s)
+0017.253 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.4154570102692, normalised_time=5.3928244290019, max_time=17.251922130585, data points known=1, old_max_bytes=69188027, new_max_bytes=132801629)
+0017.259 (0) Zip: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: 700 files added (on-disk size: 62779.7 KB)
+0023.064 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.tmp: size is now: 100.30 MB
+0023.255 (0) Creating zip file manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.list-temp.tmp)
+0023.261 (0) Successfully created zip file manifest (size: 46581)
+0024.786 (0) Created uploads zip (0) - 102685 KB in 12.2 s (8403.9 KB/s) (sha1: dd2ff77e2d1037d469e9982ab4f2d339f1b1a7aa, sha256: 9bde982e81b401c9a5280aa2c84dc16a90e4b8b66f39f4200c2d6718a274b9ef)
+0024.789 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0024.789 (0) No remote despatch: user chose no remote backup service
+0024.790 (0) Recording as successfully uploaded: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip
+0024.791 (0) Deleting zip manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip.list.tmp)
+0024.792 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0024.793 (0) Number of backup sets in history: 2; groups (db): 1
+0024.793 (0) Examining (for databases) backup set with group_id=0, nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0024.793 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.794 (0) Examining (for databases) backup set with group_id=0, nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0024.794 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.794 (0) Number of backup sets in history: 2; groups (files): 1
+0024.794 (0) Examining (for files) backup set with nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0024.794 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.794 (0) Examining (for files) backup set with nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0024.794 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.794 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0024.796 (0) No backup of mu-plugins: excluded by user's options
+0024.798 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.798 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.798 (0) Looking for candidates to backup in: /home/u505426395/domains/arupchattopadhyaydentalclinic.com/public_html/wp-content
+0024.799 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0024.799 (0) finding files: upgrade: skipping: excluded by options
+0024.799 (0) finding files: themes-old: adding to list (1)
+0024.800 (0) finding files: uploads: skipping: this is the uploads directory
+0024.800 (0) finding files: 10web-page-cache-config: adding to list (2)
+0024.800 (0) finding files: upgrade-temp-backup: adding to list (3)
+0024.800 (0) finding files: debug.log: skipping: excluded by options
+0024.801 (0) finding files: themes: skipping: this is the themes directory
+0024.801 (0) finding files: index.php: adding to list (4)
+0024.802 (0) finding files: plugins-old: adding to list (5)
+0024.802 (0) finding files: index.php-old: adding to list (6)
+0024.802 (0) finding files: updraft: skipping: this is the updraft directory
+0024.803 (0) finding files: advanced-cache.php: adding to list (7)
+0024.803 (0) finding files: cache: skipping: excluded by options
+0024.803 (0) finding files: logs: adding to list (8)
+0024.803 (0) finding files: plugins: skipping: this is the plugins directory
+0024.804 (0) finding files: upgrade-temp-backup-old: adding to list (9)
+0024.804 (0) finding files: uploads-old: adding to list (10)
+0024.808 (0) Total entities for the zip file: 9 directories, 8 files (0 skipped as non-modified), 0 MB
+0024.821 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-others.zip.tmp: size is now: 0.00 MB
+0024.823 (0) Creating zip file manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-others.zip.list-temp.tmp)
+0024.824 (0) Successfully created zip file manifest (size: 336)
+0024.827 (0) Created others zip (0) - 6 KB in 0 s (283 KB/s) (sha1: 6c970c2759873af1bf08c4c640f13b58f753a1c4, sha256: 6a2c322fe5ee277a91e8eed0f176408723b00cd97aa0b30f59fe3b44a5dcc5fe)
+0024.829 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0024.830 (0) No remote despatch: user chose no remote backup service
+0024.830 (0) Recording as successfully uploaded: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-others.zip
+0024.831 (0) Deleting zip manifest (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-others.zip.list.tmp)
+0024.832 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0024.833 (0) Number of backup sets in history: 2; groups (db): 1
+0024.833 (0) Examining (for databases) backup set with group_id=0, nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0024.833 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.833 (0) Examining (for databases) backup set with group_id=0, nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0024.833 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.834 (0) Number of backup sets in history: 2; groups (files): 1
+0024.834 (0) Examining (for files) backup set with nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0024.834 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.834 (0) Examining (for files) backup set with nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0024.834 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.834 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0024.838 (0) Saving backup status to database (elements: 8)
+0024.839 (0) Beginning creation of database dump (WordPress DB)
+0024.840 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0024.841 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0024.896 (0) Output: /*!999999\- enable the sandbox mode */ \n/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 (truncated - 1506 bytes total)
+0024.897 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0024.907 (0) Table wp_options: Total expected rows (via COUNT): 889
+0024.956 (0) Table wp_options: Rows added in this batch (next record: 10127): 885 (uncompressed bytes in this segment=1166499) in 0.05 seconds
+0024.960 (0) Table wp_options: finishing file(s) (2, 199.6 KB)
+0024.988 (0) Table wp_users: Total expected rows (via COUNT): 1
+0024.989 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0024.990 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1182) in 0.03 seconds
+0024.992 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0024.996 (0) Table wp_usermeta: Total expected rows (via COUNT): 36
+0024.996 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0024.998 (0) Table wp_usermeta: Rows added in this batch (next record: 38): 36 (uncompressed bytes in this segment=5443) in 0.00 seconds
+0025.001 (0) Table wp_usermeta: finishing file(s) (2, 2.2 KB)
+0025.005 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0025.006 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.00 seconds
+0025.010 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0025.013 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0025.013 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.015 (0) Table wp_comments: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=2159) in 0.00 seconds
+0025.018 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0025.021 (0) Table wp_links: Total expected rows (via COUNT): 0
+0025.023 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0025.025 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0025.027 (0) Table wp_postmeta: Total expected rows (approximate): 66977
+0025.301 (0) Table wp_postmeta: binary mysqldump finished (writes: 69849, bytes 5550717, return code 0) in 0.27 seconds
+0025.304 (0) Table wp_postmeta: finishing file(s) (1, 718.6 KB)
+0025.311 (0) Table wp_posts: Total expected rows (via COUNT): 692
+0025.338 (0) Table wp_posts: Rows added in this batch (next record: 882): 692 (uncompressed bytes in this segment=403849) in 0.03 seconds
+0025.341 (0) Table wp_posts: finishing file(s) (2, 56.2 KB)
+0025.344 (0) Table wp_term_relationships: Total expected rows (approximate): 39
+0025.345 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 39 (uncompressed bytes in this segment=1235) in 0.00 seconds
+0025.347 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0025.351 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0025.351 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.352 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 17): 4 (uncompressed bytes in this segment=957) in 0.00 seconds
+0025.355 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0025.359 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0025.360 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.00 seconds
+0025.363 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0025.365 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0025.365 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.366 (0) Table wp_terms: Rows added in this batch (next record: 17): 4 (uncompressed bytes in this segment=788) in 0.00 seconds
+0025.369 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0025.374 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 89
+0025.374 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.377 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 95): 89 (uncompressed bytes in this segment=42581) in 0.01 seconds
+0025.381 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.9 KB)
+0025.383 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0025.385 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0025.387 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0025.390 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0025.390 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.391 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=695) in 0.00 seconds
+0025.394 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0025.397 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 262
+0025.397 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.402 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 275): 262 (uncompressed bytes in this segment=23088) in 0.01 seconds
+0025.404 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 2.5 KB)
+0025.407 (0) Table wp_amelia_appointments: Total expected rows (via COUNT): 5
+0025.407 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.409 (0) Table wp_amelia_appointments: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1766) in 0.00 seconds
+0025.411 (0) Table wp_amelia_appointments: finishing file(s) (2, 0.6 KB)
+0025.414 (0) Table wp_amelia_cache: Total expected rows (via COUNT): 0
+0025.415 (0) Table wp_amelia_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=506) in 0.00 seconds
+0025.417 (0) Table wp_amelia_cache: finishing file(s) (2, 0.3 KB)
+0025.419 (0) Table wp_amelia_categories: Total expected rows (via COUNT): 1
+0025.420 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.421 (0) Table wp_amelia_categories: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=900) in 0.00 seconds
+0025.423 (0) Table wp_amelia_categories: finishing file(s) (2, 0.5 KB)
+0025.425 (0) Table wp_amelia_coupons: Total expected rows (via COUNT): 0
+0025.426 (0) Table wp_amelia_coupons: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=827) in 0.00 seconds
+0025.428 (0) Table wp_amelia_coupons: finishing file(s) (2, 0.5 KB)
+0025.431 (0) Table wp_amelia_coupons_to_events: Total expected rows (via COUNT): 0
+0025.432 (0) Table wp_amelia_coupons_to_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=543) in 0.00 seconds
+0025.434 (0) Table wp_amelia_coupons_to_events: finishing file(s) (2, 0.3 KB)
+0025.436 (0) Table wp_amelia_coupons_to_packages: Total expected rows (via COUNT): 0
+0025.437 (0) Table wp_amelia_coupons_to_packages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=557) in 0.00 seconds
+0025.439 (0) Table wp_amelia_coupons_to_packages: finishing file(s) (2, 0.3 KB)
+0025.441 (0) Table wp_amelia_coupons_to_services: Total expected rows (via COUNT): 0
+0025.442 (0) Table wp_amelia_coupons_to_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=557) in 0.00 seconds
+0025.445 (0) Table wp_amelia_coupons_to_services: finishing file(s) (2, 0.3 KB)
+0025.448 (0) Table wp_amelia_custom_fields: Total expected rows (via COUNT): 0
+0025.448 (0) Table wp_amelia_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.00 seconds
+0025.451 (0) Table wp_amelia_custom_fields: finishing file(s) (2, 0.5 KB)
+0025.454 (0) Table wp_amelia_custom_fields_events: Total expected rows (via COUNT): 0
+0025.455 (0) Table wp_amelia_custom_fields_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=566) in 0.00 seconds
+0025.457 (0) Table wp_amelia_custom_fields_events: finishing file(s) (2, 0.3 KB)
+0025.460 (0) Table wp_amelia_custom_fields_options: Total expected rows (via COUNT): 0
+0025.461 (0) Table wp_amelia_custom_fields_options: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=645) in 0.00 seconds
+0025.463 (0) Table wp_amelia_custom_fields_options: finishing file(s) (2, 0.4 KB)
+0025.466 (0) Table wp_amelia_custom_fields_services: Total expected rows (via COUNT): 0
+0025.467 (0) Table wp_amelia_custom_fields_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=580) in 0.00 seconds
+0025.469 (0) Table wp_amelia_custom_fields_services: finishing file(s) (2, 0.3 KB)
+0025.473 (0) Table wp_amelia_customer_bookings: Total expected rows (via COUNT): 5
+0025.473 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.474 (0) Table wp_amelia_customer_bookings: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=2345) in 0.00 seconds
+0025.476 (0) Table wp_amelia_customer_bookings: finishing file(s) (2, 0.8 KB)
+0025.479 (0) Table wp_amelia_customer_bookings_to_events_periods: Total expected rows (via COUNT): 0
+0025.480 (0) Table wp_amelia_customer_bookings_to_events_periods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0025.483 (0) Table wp_amelia_customer_bookings_to_events_periods: finishing file(s) (2, 0.4 KB)
+0025.486 (0) Table wp_amelia_customer_bookings_to_events_tickets: Total expected rows (via COUNT): 0
+0025.487 (0) Table wp_amelia_customer_bookings_to_events_tickets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=730) in 0.00 seconds
+0025.489 (0) Table wp_amelia_customer_bookings_to_events_tickets: finishing file(s) (2, 0.4 KB)
+0025.492 (0) Table wp_amelia_customer_bookings_to_extras: Total expected rows (via COUNT): 0
+0025.493 (0) Table wp_amelia_customer_bookings_to_extras: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.00 seconds
+0025.496 (0) Table wp_amelia_customer_bookings_to_extras: finishing file(s) (2, 0.4 KB)
+0025.499 (0) Table wp_amelia_events: Total expected rows (via COUNT): 0
+0025.500 (0) Table wp_amelia_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2339) in 0.00 seconds
+0025.503 (0) Table wp_amelia_events: finishing file(s) (2, 0.9 KB)
+0025.506 (0) Table wp_amelia_events_periods: Total expected rows (via COUNT): 0
+0025.507 (0) Table wp_amelia_events_periods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.00 seconds
+0025.509 (0) Table wp_amelia_events_periods: finishing file(s) (2, 0.4 KB)
+0025.513 (0) Table wp_amelia_events_tags: Total expected rows (via COUNT): 0
+0025.514 (0) Table wp_amelia_events_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.00 seconds
+0025.516 (0) Table wp_amelia_events_tags: finishing file(s) (2, 0.3 KB)
+0025.519 (0) Table wp_amelia_events_to_providers: Total expected rows (via COUNT): 0
+0025.520 (0) Table wp_amelia_events_to_providers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=559) in 0.00 seconds
+0025.522 (0) Table wp_amelia_events_to_providers: finishing file(s) (2, 0.3 KB)
+0025.525 (0) Table wp_amelia_events_to_tickets: Total expected rows (via COUNT): 0
+0025.526 (0) Table wp_amelia_events_to_tickets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=707) in 0.00 seconds
+0025.528 (0) Table wp_amelia_events_to_tickets: finishing file(s) (2, 0.4 KB)
+0025.532 (0) Table wp_amelia_extras: Total expected rows (via COUNT): 0
+0025.532 (0) Table wp_amelia_extras: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=734) in 0.00 seconds
+0025.535 (0) Table wp_amelia_extras: finishing file(s) (2, 0.4 KB)
+0025.538 (0) Table wp_amelia_galleries: Total expected rows (via COUNT): 0
+0025.538 (0) Table wp_amelia_galleries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.00 seconds
+0025.540 (0) Table wp_amelia_galleries: finishing file(s) (2, 0.4 KB)
+0025.544 (0) Table wp_amelia_locations: Total expected rows (via COUNT): 0
+0025.545 (0) Table wp_amelia_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=891) in 0.00 seconds
+0025.547 (0) Table wp_amelia_locations: finishing file(s) (2, 0.5 KB)
+0025.550 (0) Table wp_amelia_locations_views: Total expected rows (via COUNT): 0
+0025.551 (0) Table wp_amelia_locations_views: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=581) in 0.00 seconds
+0025.553 (0) Table wp_amelia_locations_views: finishing file(s) (2, 0.3 KB)
+0025.557 (0) Table wp_amelia_notifications: Total expected rows (via COUNT): 111
+0025.557 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.561 (0) Table wp_amelia_notifications: Rows added in this batch (next record: 111): 111 (uncompressed bytes in this segment=38192) in 0.01 seconds
+0025.563 (0) Table wp_amelia_notifications: finishing file(s) (2, 3.8 KB)
+0025.566 (0) Table wp_amelia_notifications_log: Total expected rows (via COUNT): 10
+0025.567 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.568 (0) Table wp_amelia_notifications_log: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=6558) in 0.00 seconds
+0025.570 (0) Table wp_amelia_notifications_log: finishing file(s) (2, 1.1 KB)
+0025.574 (0) Table wp_amelia_notifications_sms_history: Total expected rows (via COUNT): 0
+0025.575 (0) Table wp_amelia_notifications_sms_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1105) in 0.00 seconds
+0025.577 (0) Table wp_amelia_notifications_sms_history: finishing file(s) (2, 0.5 KB)
+0025.580 (0) Table wp_amelia_notifications_to_entities: Total expected rows (via COUNT): 0
+0025.581 (0) Table wp_amelia_notifications_to_entities: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.00 seconds
+0025.583 (0) Table wp_amelia_notifications_to_entities: finishing file(s) (2, 0.4 KB)
+0025.586 (0) Table wp_amelia_packages: Total expected rows (via COUNT): 0
+0025.587 (0) Table wp_amelia_packages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1309) in 0.00 seconds
+0025.589 (0) Table wp_amelia_packages: finishing file(s) (2, 0.6 KB)
+0025.592 (0) Table wp_amelia_packages_customers_to_services: Total expected rows (via COUNT): 0
+0025.593 (0) Table wp_amelia_packages_customers_to_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0025.595 (0) Table wp_amelia_packages_customers_to_services: finishing file(s) (2, 0.4 KB)
+0025.598 (0) Table wp_amelia_packages_services_to_locations: Total expected rows (via COUNT): 0
+0025.599 (0) Table wp_amelia_packages_services_to_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0025.601 (0) Table wp_amelia_packages_services_to_locations: finishing file(s) (2, 0.3 KB)
+0025.604 (0) Table wp_amelia_packages_services_to_providers: Total expected rows (via COUNT): 0
+0025.604 (0) Table wp_amelia_packages_services_to_providers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=654) in 0.00 seconds
+0025.606 (0) Table wp_amelia_packages_services_to_providers: finishing file(s) (2, 0.3 KB)
+0025.609 (0) Table wp_amelia_packages_to_customers: Total expected rows (via COUNT): 0
+0025.610 (0) Table wp_amelia_packages_to_customers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=878) in 0.00 seconds
+0025.611 (0) Table wp_amelia_packages_to_customers: finishing file(s) (2, 0.4 KB)
+0025.614 (0) Table wp_amelia_packages_to_services: Total expected rows (via COUNT): 0
+0025.615 (0) Table wp_amelia_packages_to_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=754) in 0.00 seconds
+0025.617 (0) Table wp_amelia_packages_to_services: finishing file(s) (2, 0.4 KB)
+0025.620 (0) Table wp_amelia_payments: Total expected rows (via COUNT): 5
+0025.620 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.621 (0) Table wp_amelia_payments: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1970) in 0.00 seconds
+0025.623 (0) Table wp_amelia_payments: finishing file(s) (2, 0.7 KB)
+0025.626 (0) Table wp_amelia_providers_to_daysoff: Total expected rows (via COUNT): 0
+0025.627 (0) Table wp_amelia_providers_to_daysoff: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=675) in 0.00 seconds
+0025.629 (0) Table wp_amelia_providers_to_daysoff: finishing file(s) (2, 0.4 KB)
+0025.633 (0) Table wp_amelia_providers_to_google_calendar: Total expected rows (via COUNT): 0
+0025.633 (0) Table wp_amelia_providers_to_google_calendar: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=662) in 0.00 seconds
+0025.635 (0) Table wp_amelia_providers_to_google_calendar: finishing file(s) (2, 0.4 KB)
+0025.639 (0) Table wp_amelia_providers_to_locations: Total expected rows (via COUNT): 0
+0025.639 (0) Table wp_amelia_providers_to_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=600) in 0.00 seconds
+0025.641 (0) Table wp_amelia_providers_to_locations: finishing file(s) (2, 0.3 KB)
+0025.644 (0) Table wp_amelia_providers_to_outlook_calendar: Total expected rows (via COUNT): 0
+0025.645 (0) Table wp_amelia_providers_to_outlook_calendar: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=668) in 0.00 seconds
+0025.647 (0) Table wp_amelia_providers_to_outlook_calendar: finishing file(s) (2, 0.4 KB)
+0025.650 (0) Table wp_amelia_providers_to_periods: Total expected rows (via COUNT): 20
+0025.650 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.651 (0) Table wp_amelia_providers_to_periods: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=1513) in 0.00 seconds
+0025.653 (0) Table wp_amelia_providers_to_periods: finishing file(s) (2, 0.5 KB)
+0025.656 (0) Table wp_amelia_providers_to_periods_location: Total expected rows (via COUNT): 0
+0025.657 (0) Table wp_amelia_providers_to_periods_location: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=644) in 0.00 seconds
+0025.660 (0) Table wp_amelia_providers_to_periods_location: finishing file(s) (2, 0.3 KB)
+0025.663 (0) Table wp_amelia_providers_to_periods_services: Total expected rows (via COUNT): 0
+0025.663 (0) Table wp_amelia_providers_to_periods_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=643) in 0.00 seconds
+0025.666 (0) Table wp_amelia_providers_to_periods_services: finishing file(s) (2, 0.3 KB)
+0025.669 (0) Table wp_amelia_providers_to_services: Total expected rows (via COUNT): 8
+0025.669 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.671 (0) Table wp_amelia_providers_to_services: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0025.673 (0) Table wp_amelia_providers_to_services: finishing file(s) (2, 0.5 KB)
+0025.677 (0) Table wp_amelia_providers_to_specialdays: Total expected rows (via COUNT): 0
+0025.678 (0) Table wp_amelia_providers_to_specialdays: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.00 seconds
+0025.681 (0) Table wp_amelia_providers_to_specialdays: finishing file(s) (2, 0.3 KB)
+0025.684 (0) Table wp_amelia_providers_to_specialdays_periods: Total expected rows (via COUNT): 0
+0025.685 (0) Table wp_amelia_providers_to_specialdays_periods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=726) in 0.00 seconds
+0025.687 (0) Table wp_amelia_providers_to_specialdays_periods: finishing file(s) (2, 0.4 KB)
+0025.691 (0) Table wp_amelia_providers_to_specialdays_periods_location: Total expected rows (via COUNT): 0
+0025.692 (0) Table wp_amelia_providers_to_specialdays_periods_location: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.00 seconds
+0025.694 (0) Table wp_amelia_providers_to_specialdays_periods_location: finishing file(s) (2, 0.3 KB)
+0025.697 (0) Table wp_amelia_providers_to_specialdays_periods_services: Total expected rows (via COUNT): 0
+0025.698 (0) Table wp_amelia_providers_to_specialdays_periods_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.00 seconds
+0025.700 (0) Table wp_amelia_providers_to_specialdays_periods_services: finishing file(s) (2, 0.3 KB)
+0025.703 (0) Table wp_amelia_providers_to_timeouts: Total expected rows (via COUNT): 0
+0025.704 (0) Table wp_amelia_providers_to_timeouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=620) in 0.00 seconds
+0025.706 (0) Table wp_amelia_providers_to_timeouts: finishing file(s) (2, 0.3 KB)
+0025.709 (0) Table wp_amelia_providers_to_weekdays: Total expected rows (via COUNT): 7
+0025.710 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.711 (0) Table wp_amelia_providers_to_weekdays: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=973) in 0.00 seconds
+0025.713 (0) Table wp_amelia_providers_to_weekdays: finishing file(s) (2, 0.4 KB)
+0025.716 (0) Table wp_amelia_providers_views: Total expected rows (via COUNT): 1
+0025.717 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.717 (0) Table wp_amelia_providers_views: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=667) in 0.00 seconds
+0025.719 (0) Table wp_amelia_providers_views: finishing file(s) (2, 0.4 KB)
+0025.722 (0) Table wp_amelia_resources: Total expected rows (via COUNT): 0
+0025.723 (0) Table wp_amelia_resources: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.00 seconds
+0025.725 (0) Table wp_amelia_resources: finishing file(s) (2, 0.4 KB)
+0025.728 (0) Table wp_amelia_resources_to_entities: Total expected rows (via COUNT): 0
+0025.728 (0) Table wp_amelia_resources_to_entities: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=651) in 0.00 seconds
+0025.730 (0) Table wp_amelia_resources_to_entities: finishing file(s) (2, 0.4 KB)
+0025.734 (0) Table wp_amelia_services: Total expected rows (via COUNT): 8
+0025.735 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.737 (0) Table wp_amelia_services: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=3567) in 0.00 seconds
+0025.739 (0) Table wp_amelia_services: finishing file(s) (2, 1 KB)
+0025.779 (0) Table wp_amelia_services_views: Total expected rows (via COUNT): 4
+0025.780 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.780 (0) Table wp_amelia_services_views: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=741) in 0.04 seconds
+0025.789 (0) Table wp_amelia_services_views: finishing file(s) (2, 0.4 KB)
+0025.796 (0) Table wp_amelia_taxes: Total expected rows (via COUNT): 0
+0025.797 (0) Table wp_amelia_taxes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=604) in 0.01 seconds
+0025.799 (0) Table wp_amelia_taxes: finishing file(s) (2, 0.4 KB)
+0025.802 (0) Table wp_amelia_taxes_to_entities: Total expected rows (via COUNT): 0
+0025.803 (0) Table wp_amelia_taxes_to_entities: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=608) in 0.00 seconds
+0025.805 (0) Table wp_amelia_taxes_to_entities: finishing file(s) (2, 0.4 KB)
+0025.809 (0) Table wp_amelia_users: Total expected rows (via COUNT): 3
+0025.809 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.811 (0) Table wp_amelia_users: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1964) in 0.00 seconds
+0025.813 (0) Table wp_amelia_users: finishing file(s) (2, 0.8 KB)
+0025.816 (0) Table wp_booking: Total expected rows (via COUNT): 1
+0025.816 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.816 (0) Table wp_booking: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1261) in 0.00 seconds
+0025.819 (0) Table wp_booking: finishing file(s) (2, 0.6 KB)
+0025.821 (0) Table wp_booking_dates_props: Total expected rows (via COUNT): 0
+0025.822 (0) Table wp_booking_dates_props: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.00 seconds
+0025.824 (0) Table wp_booking_dates_props: finishing file(s) (2, 0.4 KB)
+0025.827 (0) Table wp_bookingdates: Total expected rows (via COUNT): 3
+0025.827 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.829 (0) Table wp_bookingdates: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=840) in 0.00 seconds
+0025.831 (0) Table wp_bookingdates: finishing file(s) (2, 0.4 KB)
+0025.834 (0) Table wp_bookingpress_export_data_log: Total expected rows (via COUNT): 0
+0025.835 (0) Table wp_bookingpress_export_data_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+0025.837 (0) Table wp_bookingpress_export_data_log: finishing file(s) (2, 0.4 KB)
+0025.840 (0) Table wp_bookingpress_export_log_detail: Total expected rows (via COUNT): 0
+0025.840 (0) Table wp_bookingpress_export_log_detail: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=951) in 0.00 seconds
+0025.843 (0) Table wp_bookingpress_export_log_detail: finishing file(s) (2, 0.4 KB)
+0025.846 (0) Table wp_bookingpress_import_data_log: Total expected rows (via COUNT): 0
+0025.846 (0) Table wp_bookingpress_import_data_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=828) in 0.00 seconds
+0025.848 (0) Table wp_bookingpress_import_data_log: finishing file(s) (2, 0.4 KB)
+0025.851 (0) Table wp_bookingpress_import_detail_log: Total expected rows (via COUNT): 0
+0025.852 (0) Table wp_bookingpress_import_detail_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1100) in 0.00 seconds
+0025.854 (0) Table wp_bookingpress_import_detail_log: finishing file(s) (2, 0.5 KB)
+0025.857 (0) Table wp_bookingpress_import_images: Total expected rows (via COUNT): 0
+0025.857 (0) Table wp_bookingpress_import_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=921) in 0.00 seconds
+0025.860 (0) Table wp_bookingpress_import_images: finishing file(s) (2, 0.4 KB)
+0025.862 (0) Table wp_bookingpress_import_record_rel: Total expected rows (via COUNT): 0
+0025.863 (0) Table wp_bookingpress_import_record_rel: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+0025.865 (0) Table wp_bookingpress_import_record_rel: finishing file(s) (2, 0.4 KB)
+0025.868 (0) Table wp_bookly_appointments: Total expected rows (via COUNT): 0
+0025.869 (0) Table wp_bookly_appointments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1839) in 0.00 seconds
+0025.871 (0) Table wp_bookly_appointments: finishing file(s) (2, 0.7 KB)
+0025.874 (0) Table wp_bookly_categories: Total expected rows (via COUNT): 0
+0025.874 (0) Table wp_bookly_categories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=606) in 0.00 seconds
+0025.876 (0) Table wp_bookly_categories: finishing file(s) (2, 0.4 KB)
+0025.879 (0) Table wp_bookly_customer_appointments: Total expected rows (via COUNT): 0
+0025.880 (0) Table wp_bookly_customer_appointments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2694) in 0.00 seconds
+0025.882 (0) Table wp_bookly_customer_appointments: finishing file(s) (2, 0.7 KB)
+0025.885 (0) Table wp_bookly_customers: Total expected rows (via COUNT): 0
+0025.885 (0) Table wp_bookly_customers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1414) in 0.00 seconds
+0025.888 (0) Table wp_bookly_customers: finishing file(s) (2, 0.5 KB)
+0025.890 (0) Table wp_bookly_holidays: Total expected rows (via COUNT): 0
+0025.891 (0) Table wp_bookly_holidays: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.00 seconds
+0025.893 (0) Table wp_bookly_holidays: finishing file(s) (2, 0.4 KB)
+0025.896 (0) Table wp_bookly_log: Total expected rows (via COUNT): 0
+0025.897 (0) Table wp_bookly_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0025.899 (0) Table wp_bookly_log: finishing file(s) (2, 0.4 KB)
+0025.901 (0) Table wp_bookly_mailing_campaigns: Total expected rows (via COUNT): 0
+0025.902 (0) Table wp_bookly_mailing_campaigns: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=979) in 0.00 seconds
+0025.905 (0) Table wp_bookly_mailing_campaigns: finishing file(s) (2, 0.5 KB)
+0025.908 (0) Table wp_bookly_mailing_list_recipients: Total expected rows (via COUNT): 0
+0025.909 (0) Table wp_bookly_mailing_list_recipients: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=899) in 0.00 seconds
+0025.911 (0) Table wp_bookly_mailing_list_recipients: finishing file(s) (2, 0.4 KB)
+0025.914 (0) Table wp_bookly_mailing_lists: Total expected rows (via COUNT): 0
+0025.915 (0) Table wp_bookly_mailing_lists: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=507) in 0.00 seconds
+0025.917 (0) Table wp_bookly_mailing_lists: finishing file(s) (2, 0.3 KB)
+0025.920 (0) Table wp_bookly_mailing_queue: Total expected rows (via COUNT): 0
+0025.921 (0) Table wp_bookly_mailing_queue: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0025.923 (0) Table wp_bookly_mailing_queue: finishing file(s) (2, 0.4 KB)
+0025.927 (0) Table wp_bookly_news: Total expected rows (via COUNT): 60
+0025.928 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.932 (0) Table wp_bookly_news: Rows added in this batch (next record: 60): 60 (uncompressed bytes in this segment=50944) in 0.01 seconds
+0025.934 (0) Table wp_bookly_news: finishing file(s) (2, 11.1 KB)
+0025.938 (0) Table wp_bookly_notifications: Total expected rows (via COUNT): 20
+0025.938 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.940 (0) Table wp_bookly_notifications: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=10881) in 0.00 seconds
+0025.942 (0) Table wp_bookly_notifications: finishing file(s) (2, 1.6 KB)
+0025.946 (0) Table wp_bookly_notifications_queue: Total expected rows (via COUNT): 0
+0025.947 (0) Table wp_bookly_notifications_queue: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.00 seconds
+0025.949 (0) Table wp_bookly_notifications_queue: finishing file(s) (2, 0.4 KB)
+0025.952 (0) Table wp_bookly_orders: Total expected rows (via COUNT): 0
+0025.953 (0) Table wp_bookly_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=466) in 0.00 seconds
+0025.956 (0) Table wp_bookly_orders: finishing file(s) (2, 0.3 KB)
+0025.959 (0) Table wp_bookly_payments: Total expected rows (via COUNT): 0
+0025.960 (0) Table wp_bookly_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1466) in 0.00 seconds
+0025.962 (0) Table wp_bookly_payments: finishing file(s) (2, 0.7 KB)
+0025.965 (0) Table wp_bookly_schedule_item_breaks: Total expected rows (via COUNT): 0
+0025.966 (0) Table wp_bookly_schedule_item_breaks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=872) in 0.00 seconds
+0025.969 (0) Table wp_bookly_schedule_item_breaks: finishing file(s) (2, 0.4 KB)
+0025.972 (0) Table wp_bookly_sent_notifications: Total expected rows (via COUNT): 0
+0025.973 (0) Table wp_bookly_sent_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0025.975 (0) Table wp_bookly_sent_notifications: finishing file(s) (2, 0.4 KB)
+0025.979 (0) Table wp_bookly_series: Total expected rows (via COUNT): 0
+0025.979 (0) Table wp_bookly_series: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=500) in 0.00 seconds
+0025.982 (0) Table wp_bookly_series: finishing file(s) (2, 0.3 KB)
+0025.987 (0) Table wp_bookly_services: Total expected rows (via COUNT): 1
+0025.987 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0025.989 (0) Table wp_bookly_services: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=3451) in 0.00 seconds
+0025.992 (0) Table wp_bookly_services: finishing file(s) (2, 1.2 KB)
+0025.996 (0) Table wp_bookly_sessions: Total expected rows (via COUNT): 0
+0025.997 (0) Table wp_bookly_sessions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=621) in 0.00 seconds
+0025.999 (0) Table wp_bookly_sessions: finishing file(s) (2, 0.4 KB)
+0026.004 (0) Table wp_bookly_shop: Total expected rows (via COUNT): 44
+0026.005 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.008 (0) Table wp_bookly_shop: Rows added in this batch (next record: 44): 44 (uncompressed bytes in this segment=35397) in 0.01 seconds
+0026.012 (0) Table wp_bookly_shop: finishing file(s) (2, 9.2 KB)
+0026.015 (0) Table wp_bookly_staff: Total expected rows (via COUNT): 1
+0026.016 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.017 (0) Table wp_bookly_staff: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1699) in 0.00 seconds
+0026.020 (0) Table wp_bookly_staff: finishing file(s) (2, 0.7 KB)
+0026.023 (0) Table wp_bookly_staff_schedule_items: Total expected rows (via COUNT): 7
+0026.023 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.024 (0) Table wp_bookly_staff_schedule_items: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1267) in 0.00 seconds
+0026.027 (0) Table wp_bookly_staff_schedule_items: finishing file(s) (2, 0.5 KB)
+0026.030 (0) Table wp_bookly_staff_services: Total expected rows (via COUNT): 0
+0026.031 (0) Table wp_bookly_staff_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1194) in 0.00 seconds
+0026.033 (0) Table wp_bookly_staff_services: finishing file(s) (2, 0.5 KB)
+0026.036 (0) Table wp_bookly_stats: Total expected rows (via COUNT): 0
+0026.037 (0) Table wp_bookly_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=518) in 0.00 seconds
+0026.039 (0) Table wp_bookly_stats: finishing file(s) (2, 0.4 KB)
+0026.042 (0) Table wp_bookly_sub_services: Total expected rows (via COUNT): 0
+0026.043 (0) Table wp_bookly_sub_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1080) in 0.00 seconds
+0026.048 (0) Table wp_bookly_sub_services: finishing file(s) (2, 0.5 KB)
+0026.051 (0) Table wp_bwg_album: Total expected rows (via COUNT): 0
+0026.052 (0) Table wp_bwg_album: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=719) in 0.00 seconds
+0026.054 (0) Table wp_bwg_album: finishing file(s) (2, 0.4 KB)
+0026.057 (0) Table wp_bwg_album_gallery: Total expected rows (via COUNT): 0
+0026.058 (0) Table wp_bwg_album_gallery: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=582) in 0.00 seconds
+0026.061 (0) Table wp_bwg_album_gallery: finishing file(s) (2, 0.3 KB)
+0026.064 (0) Table wp_bwg_file_paths: Total expected rows (via COUNT): 46
+0026.065 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.067 (0) Table wp_bwg_file_paths: Rows added in this batch (next record: 46): 46 (uncompressed bytes in this segment=9656) in 0.00 seconds
+0026.069 (0) Table wp_bwg_file_paths: finishing file(s) (2, 1.4 KB)
+0026.072 (0) Table wp_bwg_gallery: Total expected rows (via COUNT): 1
+0026.073 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.074 (0) Table wp_bwg_gallery: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1148) in 0.00 seconds
+0026.076 (0) Table wp_bwg_gallery: finishing file(s) (2, 0.6 KB)
+0026.080 (0) Table wp_bwg_image: Total expected rows (via COUNT): 6
+0026.081 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.082 (0) Table wp_bwg_image: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=3045) in 0.00 seconds
+0026.085 (0) Table wp_bwg_image: finishing file(s) (2, 0.8 KB)
+0026.088 (0) Table wp_bwg_image_comment: Total expected rows (via COUNT): 0
+0026.089 (0) Table wp_bwg_image_comment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=671) in 0.00 seconds
+0026.091 (0) Table wp_bwg_image_comment: finishing file(s) (2, 0.4 KB)
+0026.094 (0) Table wp_bwg_image_rate: Total expected rows (via COUNT): 0
+0026.095 (0) Table wp_bwg_image_rate: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=548) in 0.00 seconds
+0026.097 (0) Table wp_bwg_image_rate: finishing file(s) (2, 0.3 KB)
+0026.101 (0) Table wp_bwg_image_tag: Total expected rows (via COUNT): 0
+0026.102 (0) Table wp_bwg_image_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.00 seconds
+0026.104 (0) Table wp_bwg_image_tag: finishing file(s) (2, 0.3 KB)
+0026.108 (0) Table wp_bwg_shortcode: Total expected rows (via COUNT): 1
+0026.108 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.110 (0) Table wp_bwg_shortcode: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1917) in 0.00 seconds
+0026.112 (0) Table wp_bwg_shortcode: finishing file(s) (2, 0.9 KB)
+0026.118 (0) Table wp_bwg_theme: Total expected rows (via COUNT): 2
+0026.118 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.120 (0) Table wp_bwg_theme: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=41453) in 0.01 seconds
+0026.123 (0) Table wp_bwg_theme: finishing file(s) (2, 4.5 KB)
+0026.127 (0) Table wp_chaty_contact_form_leads: Total expected rows (via COUNT): 0
+0026.128 (0) Table wp_chaty_contact_form_leads: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.00 seconds
+0026.130 (0) Table wp_chaty_contact_form_leads: finishing file(s) (2, 0.4 KB)
+0026.134 (0) Table wp_cpappbk_forms: Total expected rows (via COUNT): 1
+0026.135 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.137 (0) Table wp_cpappbk_forms: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=8196) in 0.00 seconds
+0026.139 (0) Table wp_cpappbk_forms: finishing file(s) (2, 2.2 KB)
+0026.144 (0) Table wp_cpappbk_messages: Total expected rows (via COUNT): 20
+0026.144 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.146 (0) Table wp_cpappbk_messages: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=26997) in 0.00 seconds
+0026.149 (0) Table wp_cpappbk_messages: finishing file(s) (2, 2.6 KB)
+0026.153 (0) Table wp_duplicator_packages: Total expected rows (via COUNT): 0
+0026.155 (0) Table wp_duplicator_packages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=720) in 0.00 seconds
+0026.158 (0) Table wp_duplicator_packages: finishing file(s) (2, 0.4 KB)
+0026.162 (0) Table wp_frmt_form_entry: Total expected rows (via COUNT): 0
+0026.163 (0) Table wp_frmt_form_entry: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=789) in 0.00 seconds
+0026.166 (0) Table wp_frmt_form_entry: finishing file(s) (2, 0.4 KB)
+0026.171 (0) Table wp_frmt_form_entry_meta: Total expected rows (via COUNT): 0
+0026.172 (0) Table wp_frmt_form_entry_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=853) in 0.00 seconds
+0026.176 (0) Table wp_frmt_form_entry_meta: finishing file(s) (2, 0.4 KB)
+0026.180 (0) Table wp_frmt_form_reports: Total expected rows (via COUNT): 1
+0026.181 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.182 (0) Table wp_frmt_form_reports: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1325) in 0.00 seconds
+0026.186 (0) Table wp_frmt_form_reports: finishing file(s) (2, 0.7 KB)
+0026.190 (0) Table wp_frmt_form_views: Total expected rows (via COUNT): 0
+0026.191 (0) Table wp_frmt_form_views: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=918) in 0.00 seconds
+0026.194 (0) Table wp_frmt_form_views: finishing file(s) (2, 0.4 KB)
+0026.198 (0) Table wp_grp_google_place: Total expected rows (via COUNT): 1
+0026.198 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.200 (0) Table wp_grp_google_place: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1431) in 0.00 seconds
+0026.203 (0) Table wp_grp_google_place: finishing file(s) (2, 0.8 KB)
+0026.207 (0) Table wp_grp_google_review: Total expected rows (via COUNT): 7
+0026.207 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.208 (0) Table wp_grp_google_review: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=3163) in 0.00 seconds
+0026.211 (0) Table wp_grp_google_review: finishing file(s) (2, 1.4 KB)
+0026.215 (0) Table wp_grp_google_stats: Total expected rows (via COUNT): 1
+0026.215 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.216 (0) Table wp_grp_google_stats: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=737) in 0.00 seconds
+0026.219 (0) Table wp_grp_google_stats: finishing file(s) (2, 0.4 KB)
+0026.224 (0) Table wp_newsletter: Total expected rows (via COUNT): 5
+0026.224 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.226 (0) Table wp_newsletter: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=6263) in 0.00 seconds
+0026.229 (0) Table wp_newsletter: finishing file(s) (2, 1.1 KB)
+0026.233 (0) Table wp_newsletter_emails: Total expected rows (via COUNT): 1
+0026.233 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.234 (0) Table wp_newsletter_emails: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=10338) in 0.00 seconds
+0026.238 (0) Table wp_newsletter_emails: finishing file(s) (2, 2.9 KB)
+0026.241 (0) Table wp_newsletter_logs: Total expected rows (via COUNT): 0
+0026.243 (0) Table wp_newsletter_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.00 seconds
+0026.246 (0) Table wp_newsletter_logs: finishing file(s) (2, 0.4 KB)
+0026.248 (0) Table wp_newsletter_sent: Total expected rows (approximate): 0
+0026.249 (0) Table wp_newsletter_sent: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=798) in 0.00 seconds
+0026.251 (0) Table wp_newsletter_sent: finishing file(s) (2, 0.4 KB)
+0026.255 (0) Table wp_newsletter_stats: Total expected rows (via COUNT): 0
+0026.255 (0) Table wp_newsletter_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.00 seconds
+0026.258 (0) Table wp_newsletter_stats: finishing file(s) (2, 0.4 KB)
+0026.262 (0) Table wp_newsletter_user_logs: Total expected rows (via COUNT): 15
+0026.262 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.263 (0) Table wp_newsletter_user_logs: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=1800) in 0.00 seconds
+0026.267 (0) Table wp_newsletter_user_logs: finishing file(s) (2, 0.6 KB)
+0026.271 (0) Table wp_newsletter_user_meta: Total expected rows (via COUNT): 0
+0026.272 (0) Table wp_newsletter_user_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=611) in 0.00 seconds
+0026.275 (0) Table wp_newsletter_user_meta: finishing file(s) (2, 0.4 KB)
+0026.279 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0026.280 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=659) in 0.00 seconds
+0026.283 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0026.286 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0026.288 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.00 seconds
+0026.291 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0026.294 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0026.296 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1650) in 0.00 seconds
+0026.298 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0026.302 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0026.302 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.303 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=911) in 0.00 seconds
+0026.307 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0026.307 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/u505426395/domains/arupchattopadhyaydentalclinic.com/public_html/wp-content/updraft/backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0026.308 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_options.table.tmpr10128.gz (1/140/fopen): adding to final database dump
+0026.312 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_options.table.gz (2/140/fopen): adding to final database dump
+0026.312 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_users.table.tmpr2.gz (3/140/fopen): adding to final database dump
+0026.313 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_users.table.gz (4/140/fopen): adding to final database dump
+0026.313 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_usermeta.table.tmpr39.gz (5/140/fopen): adding to final database dump
+0026.314 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_usermeta.table.gz (6/140/fopen): adding to final database dump
+0026.314 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_commentmeta.table.tmpr0.gz (7/140/fopen): adding to final database dump
+0026.314 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_commentmeta.table.gz (8/140/fopen): adding to final database dump
+0026.315 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_comments.table.tmpr4.gz (9/140/fopen): adding to final database dump
+0026.315 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_comments.table.gz (10/140/fopen): adding to final database dump
+0026.315 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_links.table.tmpr0.gz (11/140/fopen): adding to final database dump
+0026.316 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_links.table.gz (12/140/fopen): adding to final database dump
+0026.316 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_postmeta.table.gz (13/140/fopen): adding to final database dump
+0026.329 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_posts.table.tmpr883.gz (14/140/fopen): adding to final database dump
+0026.331 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_posts.table.gz (15/140/fopen): adding to final database dump
+0026.331 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_term_relationships.table.tmpr100001.gz (16/140/fopen): adding to final database dump
+0026.332 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_term_relationships.table.gz (17/140/fopen): adding to final database dump
+0026.332 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_term_taxonomy.table.tmpr18.gz (18/140/fopen): adding to final database dump
+0026.332 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_term_taxonomy.table.gz (19/140/fopen): adding to final database dump
+0026.333 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_termmeta.table.tmpr0.gz (20/140/fopen): adding to final database dump
+0026.333 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_termmeta.table.gz (21/140/fopen): adding to final database dump
+0026.333 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_terms.table.tmpr18.gz (22/140/fopen): adding to final database dump
+0026.334 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_terms.table.gz (23/140/fopen): adding to final database dump
+0026.334 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_actions.table.tmpr96.gz (24/140/fopen): adding to final database dump
+0026.334 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_actions.table.gz (25/140/fopen): adding to final database dump
+0026.335 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_claims.table.tmpr0.gz (26/140/fopen): adding to final database dump
+0026.335 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_claims.table.gz (27/140/fopen): adding to final database dump
+0026.335 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_groups.table.tmpr4.gz (28/140/fopen): adding to final database dump
+0026.335 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_groups.table.gz (29/140/fopen): adding to final database dump
+0026.336 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_logs.table.tmpr276.gz (30/140/fopen): adding to final database dump
+0026.336 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_actionscheduler_logs.table.gz (31/140/fopen): adding to final database dump
+0026.336 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_appointments.table.tmpr6.gz (32/140/fopen): adding to final database dump
+0026.337 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_appointments.table.gz (33/140/fopen): adding to final database dump
+0026.337 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_cache.table.tmpr0.gz (34/140/fopen): adding to final database dump
+0026.337 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_cache.table.gz (35/140/fopen): adding to final database dump
+0026.337 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_categories.table.tmpr2.gz (36/140/fopen): adding to final database dump
+0026.338 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_categories.table.gz (37/140/fopen): adding to final database dump
+0026.338 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons.table.tmpr0.gz (38/140/fopen): adding to final database dump
+0026.338 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons.table.gz (39/140/fopen): adding to final database dump
+0026.339 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_events.table.tmpr0.gz (40/140/fopen): adding to final database dump
+0026.339 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_events.table.gz (41/140/fopen): adding to final database dump
+0026.343 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_packages.table.tmpr0.gz (42/140/fopen): adding to final database dump
+0026.343 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_packages.table.gz (43/140/fopen): adding to final database dump
+0026.344 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_services.table.tmpr0.gz (44/140/fopen): adding to final database dump
+0026.344 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_coupons_to_services.table.gz (45/140/fopen): adding to final database dump
+0026.344 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields.table.tmpr0.gz (46/140/fopen): adding to final database dump
+0026.345 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields.table.gz (47/140/fopen): adding to final database dump
+0026.350 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_events.table.tmpr0.gz (48/140/fopen): adding to final database dump
+0026.350 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_events.table.gz (49/140/fopen): adding to final database dump
+0026.350 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_options.table.tmpr0.gz (50/140/fopen): adding to final database dump
+0026.351 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_options.table.gz (51/140/fopen): adding to final database dump
+0026.351 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_services.table.tmpr0.gz (52/140/fopen): adding to final database dump
+0026.351 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_custom_fields_services.table.gz (53/140/fopen): adding to final database dump
+0026.353 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings.table.tmpr6.gz (54/140/fopen): adding to final database dump
+0026.353 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings.table.gz (55/140/fopen): adding to final database dump
+0026.355 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_events_periods.table.tmpr0.gz (56/140/fopen): adding to final database dump
+0026.355 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_events_periods.table.gz (57/140/fopen): adding to final database dump
+0026.356 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_events_tickets.table.tmpr0.gz (58/140/fopen): adding to final database dump
+0026.356 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_events_tickets.table.gz (59/140/fopen): adding to final database dump
+0026.356 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_extras.table.tmpr0.gz (60/140/fopen): adding to final database dump
+0026.357 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_customer_bookings_to_extras.table.gz (61/140/fopen): adding to final database dump
+0026.357 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events.table.tmpr0.gz (62/140/fopen): adding to final database dump
+0026.358 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events.table.gz (63/140/fopen): adding to final database dump
+0026.358 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_periods.table.tmpr0.gz (64/140/fopen): adding to final database dump
+0026.358 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_periods.table.gz (65/140/fopen): adding to final database dump
+0026.359 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_tags.table.tmpr0.gz (66/140/fopen): adding to final database dump
+0026.359 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_tags.table.gz (67/140/fopen): adding to final database dump
+0026.359 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_to_providers.table.tmpr0.gz (68/140/fopen): adding to final database dump
+0026.360 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_to_providers.table.gz (69/140/fopen): adding to final database dump
+0026.360 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_to_tickets.table.tmpr0.gz (70/140/fopen): adding to final database dump
+0026.361 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_events_to_tickets.table.gz (71/140/fopen): adding to final database dump
+0026.361 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_extras.table.tmpr0.gz (72/140/fopen): adding to final database dump
+0026.362 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_extras.table.gz (73/140/fopen): adding to final database dump
+0026.362 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_galleries.table.tmpr0.gz (74/140/fopen): adding to final database dump
+0026.362 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_galleries.table.gz (75/140/fopen): adding to final database dump
+0026.363 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_locations.table.tmpr0.gz (76/140/fopen): adding to final database dump
+0026.363 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_locations.table.gz (77/140/fopen): adding to final database dump
+0026.363 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_locations_views.table.tmpr0.gz (78/140/fopen): adding to final database dump
+0026.364 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_locations_views.table.gz (79/140/fopen): adding to final database dump
+0026.364 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications.table.tmpr112.gz (80/140/fopen): adding to final database dump
+0026.365 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications.table.gz (81/140/fopen): adding to final database dump
+0026.365 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_log.table.tmpr11.gz (82/140/fopen): adding to final database dump
+0026.365 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_log.table.gz (83/140/fopen): adding to final database dump
+0026.366 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_sms_history.table.tmpr0.gz (84/140/fopen): adding to final database dump
+0026.366 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_sms_history.table.gz (85/140/fopen): adding to final database dump
+0026.367 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_to_entities.table.tmpr0.gz (86/140/fopen): adding to final database dump
+0026.367 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_notifications_to_entities.table.gz (87/140/fopen): adding to final database dump
+0026.367 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages.table.tmpr0.gz (88/140/fopen): adding to final database dump
+0026.368 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages.table.gz (89/140/fopen): adding to final database dump
+0026.368 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_customers_to_services.table.tmpr0.gz (90/140/fopen): adding to final database dump
+0026.368 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_customers_to_services.table.gz (91/140/fopen): adding to final database dump
+0026.368 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_services_to_locations.table.tmpr0.gz (92/140/fopen): adding to final database dump
+0026.369 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_services_to_locations.table.gz (93/140/fopen): adding to final database dump
+0026.369 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_services_to_providers.table.tmpr0.gz (94/140/fopen): adding to final database dump
+0026.369 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_services_to_providers.table.gz (95/140/fopen): adding to final database dump
+0026.370 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_to_customers.table.tmpr0.gz (96/140/fopen): adding to final database dump
+0026.370 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_to_customers.table.gz (97/140/fopen): adding to final database dump
+0026.370 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_to_services.table.tmpr0.gz (98/140/fopen): adding to final database dump
+0026.371 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_packages_to_services.table.gz (99/140/fopen): adding to final database dump
+0026.372 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_payments.table.tmpr6.gz (100/140/fopen): adding to final database dump
+0026.373 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_payments.table.gz (101/140/fopen): adding to final database dump
+0026.373 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_daysoff.table.tmpr0.gz (102/140/fopen): adding to final database dump
+0026.373 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_daysoff.table.gz (103/140/fopen): adding to final database dump
+0026.374 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_google_calendar.table.tmpr0.gz (104/140/fopen): adding to final database dump
+0026.374 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_google_calendar.table.gz (105/140/fopen): adding to final database dump
+0026.374 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_locations.table.tmpr0.gz (106/140/fopen): adding to final database dump
+0026.374 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_locations.table.gz (107/140/fopen): adding to final database dump
+0026.375 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_outlook_calendar.table.tmpr0.gz (108/140/fopen): adding to final database dump
+0026.375 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_outlook_calendar.table.gz (109/140/fopen): adding to final database dump
+0026.375 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods.table.tmpr21.gz (110/140/fopen): adding to final database dump
+0026.376 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods.table.gz (111/140/fopen): adding to final database dump
+0026.376 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods_location.table.tmpr0.gz (112/140/fopen): adding to final database dump
+0026.376 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods_location.table.gz (113/140/fopen): adding to final database dump
+0026.377 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods_services.table.tmpr0.gz (114/140/fopen): adding to final database dump
+0026.377 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_periods_services.table.gz (115/140/fopen): adding to final database dump
+0026.377 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_services.table.tmpr9.gz (116/140/fopen): adding to final database dump
+0026.378 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_services.table.gz (117/140/fopen): adding to final database dump
+0026.378 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays.table.tmpr0.gz (118/140/fopen): adding to final database dump
+0026.378 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays.table.gz (119/140/fopen): adding to final database dump
+0026.379 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods.table.tmpr0.gz (120/140/fopen): adding to final database dump
+0026.379 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods.table.gz (121/140/fopen): adding to final database dump
+0026.379 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods_location.table.tmpr0.gz (122/140/fopen): adding to final database dump
+0026.380 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods_location.table.gz (123/140/fopen): adding to final database dump
+0026.380 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods_services.table.tmpr0.gz (124/140/fopen): adding to final database dump
+0026.380 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_specialdays_periods_services.table.gz (125/140/fopen): adding to final database dump
+0026.380 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_timeouts.table.tmpr0.gz (126/140/fopen): adding to final database dump
+0026.381 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_timeouts.table.gz (127/140/fopen): adding to final database dump
+0026.381 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_weekdays.table.tmpr8.gz (128/140/fopen): adding to final database dump
+0026.381 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_to_weekdays.table.gz (129/140/fopen): adding to final database dump
+0026.382 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_views.table.tmpr2.gz (130/140/fopen): adding to final database dump
+0026.382 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_providers_views.table.gz (131/140/fopen): adding to final database dump
+0026.382 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_resources.table.tmpr0.gz (132/140/fopen): adding to final database dump
+0026.383 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_resources.table.gz (133/140/fopen): adding to final database dump
+0026.383 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_resources_to_entities.table.tmpr0.gz (134/140/fopen): adding to final database dump
+0026.383 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_resources_to_entities.table.gz (135/140/fopen): adding to final database dump
+0026.384 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_services.table.tmpr9.gz (136/140/fopen): adding to final database dump
+0026.384 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_services.table.gz (137/140/fopen): adding to final database dump
+0026.384 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_services_views.table.tmpr5.gz (138/140/fopen): adding to final database dump
+0026.385 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_services_views.table.gz (139/140/fopen): adding to final database dump
+0026.385 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_taxes.table.tmpr0.gz (140/140/fopen): adding to final database dump
+0026.385 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_taxes.table.gz (141/140/fopen): adding to final database dump
+0026.386 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_taxes_to_entities.table.tmpr0.gz (142/140/fopen): adding to final database dump
+0026.386 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_taxes_to_entities.table.gz (143/140/fopen): adding to final database dump
+0026.386 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_users.table.tmpr4.gz (144/140/fopen): adding to final database dump
+0026.387 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_amelia_users.table.gz (145/140/fopen): adding to final database dump
+0026.387 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_booking.table.tmpr2.gz (146/140/fopen): adding to final database dump
+0026.387 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_booking.table.gz (147/140/fopen): adding to final database dump
+0026.388 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_booking_dates_props.table.tmpr0.gz (148/140/fopen): adding to final database dump
+0026.388 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_booking_dates_props.table.gz (149/140/fopen): adding to final database dump
+0026.388 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingdates.table.tmpr4.gz (150/140/fopen): adding to final database dump
+0026.388 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingdates.table.gz (151/140/fopen): adding to final database dump
+0026.389 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_export_data_log.table.tmpr0.gz (152/140/fopen): adding to final database dump
+0026.389 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_export_data_log.table.gz (153/140/fopen): adding to final database dump
+0026.389 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_export_log_detail.table.tmpr0.gz (154/140/fopen): adding to final database dump
+0026.390 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_export_log_detail.table.gz (155/140/fopen): adding to final database dump
+0026.390 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_data_log.table.tmpr0.gz (156/140/fopen): adding to final database dump
+0026.390 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_data_log.table.gz (157/140/fopen): adding to final database dump
+0026.391 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_detail_log.table.tmpr0.gz (158/140/fopen): adding to final database dump
+0026.391 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_detail_log.table.gz (159/140/fopen): adding to final database dump
+0026.391 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_images.table.tmpr0.gz (160/140/fopen): adding to final database dump
+0026.392 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_images.table.gz (161/140/fopen): adding to final database dump
+0026.392 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_record_rel.table.tmpr0.gz (162/140/fopen): adding to final database dump
+0026.392 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookingpress_import_record_rel.table.gz (163/140/fopen): adding to final database dump
+0026.393 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_appointments.table.tmpr0.gz (164/140/fopen): adding to final database dump
+0026.393 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_appointments.table.gz (165/140/fopen): adding to final database dump
+0026.393 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_categories.table.tmpr0.gz (166/140/fopen): adding to final database dump
+0026.394 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_categories.table.gz (167/140/fopen): adding to final database dump
+0026.394 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_customer_appointments.table.tmpr0.gz (168/140/fopen): adding to final database dump
+0026.395 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_customer_appointments.table.gz (169/140/fopen): adding to final database dump
+0026.395 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_customers.table.tmpr0.gz (170/140/fopen): adding to final database dump
+0026.395 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_customers.table.gz (171/140/fopen): adding to final database dump
+0026.396 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_holidays.table.tmpr0.gz (172/140/fopen): adding to final database dump
+0026.396 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_holidays.table.gz (173/140/fopen): adding to final database dump
+0026.396 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_log.table.tmpr0.gz (174/140/fopen): adding to final database dump
+0026.397 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_log.table.gz (175/140/fopen): adding to final database dump
+0026.397 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_campaigns.table.tmpr0.gz (176/140/fopen): adding to final database dump
+0026.398 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_campaigns.table.gz (177/140/fopen): adding to final database dump
+0026.398 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_list_recipients.table.tmpr0.gz (178/140/fopen): adding to final database dump
+0026.398 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_list_recipients.table.gz (179/140/fopen): adding to final database dump
+0026.399 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_lists.table.tmpr0.gz (180/140/fopen): adding to final database dump
+0026.399 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_lists.table.gz (181/140/fopen): adding to final database dump
+0026.399 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_queue.table.tmpr0.gz (182/140/fopen): adding to final database dump
+0026.400 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_mailing_queue.table.gz (183/140/fopen): adding to final database dump
+0026.400 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_news.table.tmpr61.gz (184/140/fopen): adding to final database dump
+0026.401 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_news.table.gz (185/140/fopen): adding to final database dump
+0026.401 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_notifications.table.tmpr21.gz (186/140/fopen): adding to final database dump
+0026.402 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_notifications.table.gz (187/140/fopen): adding to final database dump
+0026.402 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_notifications_queue.table.tmpr0.gz (188/140/fopen): adding to final database dump
+0026.402 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_notifications_queue.table.gz (189/140/fopen): adding to final database dump
+0026.403 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_orders.table.tmpr0.gz (190/140/fopen): adding to final database dump
+0026.403 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_orders.table.gz (191/140/fopen): adding to final database dump
+0026.403 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_payments.table.tmpr0.gz (192/140/fopen): adding to final database dump
+0026.404 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_payments.table.gz (193/140/fopen): adding to final database dump
+0026.404 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_schedule_item_breaks.table.tmpr0.gz (194/140/fopen): adding to final database dump
+0026.404 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_schedule_item_breaks.table.gz (195/140/fopen): adding to final database dump
+0026.405 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sent_notifications.table.tmpr0.gz (196/140/fopen): adding to final database dump
+0026.405 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sent_notifications.table.gz (197/140/fopen): adding to final database dump
+0026.406 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_series.table.tmpr0.gz (198/140/fopen): adding to final database dump
+0026.406 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_series.table.gz (199/140/fopen): adding to final database dump
+0026.407 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_services.table.tmpr2.gz (200/140/fopen): adding to final database dump
+0026.408 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_services.table.gz (201/140/fopen): adding to final database dump
+0026.408 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sessions.table.tmpr0.gz (202/140/fopen): adding to final database dump
+0026.408 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sessions.table.gz (203/140/fopen): adding to final database dump
+0026.409 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_shop.table.tmpr45.gz (204/140/fopen): adding to final database dump
+0026.409 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_shop.table.gz (205/140/fopen): adding to final database dump
+0026.410 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff.table.tmpr2.gz (206/140/fopen): adding to final database dump
+0026.410 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff.table.gz (207/140/fopen): adding to final database dump
+0026.410 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff_schedule_items.table.tmpr8.gz (208/140/fopen): adding to final database dump
+0026.411 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff_schedule_items.table.gz (209/140/fopen): adding to final database dump
+0026.411 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff_services.table.tmpr0.gz (210/140/fopen): adding to final database dump
+0026.411 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_staff_services.table.gz (211/140/fopen): adding to final database dump
+0026.412 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_stats.table.tmpr0.gz (212/140/fopen): adding to final database dump
+0026.412 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_stats.table.gz (213/140/fopen): adding to final database dump
+0026.413 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sub_services.table.tmpr0.gz (214/140/fopen): adding to final database dump
+0026.413 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bookly_sub_services.table.gz (215/140/fopen): adding to final database dump
+0026.413 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_album.table.tmpr0.gz (216/140/fopen): adding to final database dump
+0026.414 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_album.table.gz (217/140/fopen): adding to final database dump
+0026.414 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_album_gallery.table.tmpr0.gz (218/140/fopen): adding to final database dump
+0026.414 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_album_gallery.table.gz (219/140/fopen): adding to final database dump
+0026.415 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_file_paths.table.tmpr47.gz (220/140/fopen): adding to final database dump
+0026.415 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_file_paths.table.gz (221/140/fopen): adding to final database dump
+0026.415 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_gallery.table.tmpr2.gz (222/140/fopen): adding to final database dump
+0026.416 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_gallery.table.gz (223/140/fopen): adding to final database dump
+0026.416 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image.table.tmpr7.gz (224/140/fopen): adding to final database dump
+0026.416 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image.table.gz (225/140/fopen): adding to final database dump
+0026.417 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_comment.table.tmpr0.gz (226/140/fopen): adding to final database dump
+0026.417 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_comment.table.gz (227/140/fopen): adding to final database dump
+0026.418 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_rate.table.tmpr0.gz (228/140/fopen): adding to final database dump
+0026.418 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_rate.table.gz (229/140/fopen): adding to final database dump
+0026.418 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_tag.table.tmpr0.gz (230/140/fopen): adding to final database dump
+0026.419 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_image_tag.table.gz (231/140/fopen): adding to final database dump
+0026.419 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_shortcode.table.tmpr2.gz (232/140/fopen): adding to final database dump
+0026.419 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_shortcode.table.gz (233/140/fopen): adding to final database dump
+0026.420 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_theme.table.tmpr3.gz (234/140/fopen): adding to final database dump
+0026.420 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_bwg_theme.table.gz (235/140/fopen): adding to final database dump
+0026.420 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_chaty_contact_form_leads.table.tmpr0.gz (236/140/fopen): adding to final database dump
+0026.421 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_chaty_contact_form_leads.table.gz (237/140/fopen): adding to final database dump
+0026.421 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_cpappbk_forms.table.tmpr3.gz (238/140/fopen): adding to final database dump
+0026.422 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_cpappbk_forms.table.gz (239/140/fopen): adding to final database dump
+0026.422 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_cpappbk_messages.table.tmpr21.gz (240/140/fopen): adding to final database dump
+0026.422 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_cpappbk_messages.table.gz (241/140/fopen): adding to final database dump
+0026.423 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_duplicator_packages.table.tmpr0.gz (242/140/fopen): adding to final database dump
+0026.423 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_duplicator_packages.table.gz (243/140/fopen): adding to final database dump
+0026.424 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_entry.table.tmpr0.gz (244/140/fopen): adding to final database dump
+0026.424 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_entry.table.gz (245/140/fopen): adding to final database dump
+0026.424 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_entry_meta.table.tmpr0.gz (246/140/fopen): adding to final database dump
+0026.425 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_entry_meta.table.gz (247/140/fopen): adding to final database dump
+0026.425 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_reports.table.tmpr2.gz (248/140/fopen): adding to final database dump
+0026.426 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_reports.table.gz (249/140/fopen): adding to final database dump
+0026.426 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_views.table.tmpr0.gz (250/140/fopen): adding to final database dump
+0026.426 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_frmt_form_views.table.gz (251/140/fopen): adding to final database dump
+0026.427 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_place.table.tmpr2.gz (252/140/fopen): adding to final database dump
+0026.427 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_place.table.gz (253/140/fopen): adding to final database dump
+0026.427 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_review.table.tmpr8.gz (254/140/fopen): adding to final database dump
+0026.428 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_review.table.gz (255/140/fopen): adding to final database dump
+0026.428 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_stats.table.tmpr2.gz (256/140/fopen): adding to final database dump
+0026.429 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_grp_google_stats.table.gz (257/140/fopen): adding to final database dump
+0026.429 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter.table.tmpr6.gz (258/140/fopen): adding to final database dump
+0026.429 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter.table.gz (259/140/fopen): adding to final database dump
+0026.430 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_emails.table.tmpr2.gz (260/140/fopen): adding to final database dump
+0026.430 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_emails.table.gz (261/140/fopen): adding to final database dump
+0026.431 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_logs.table.tmpr0.gz (262/140/fopen): adding to final database dump
+0026.431 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_logs.table.gz (263/140/fopen): adding to final database dump
+0026.431 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_sent.table.tmpr1.gz (264/140/fopen): adding to final database dump
+0026.432 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_sent.table.gz (265/140/fopen): adding to final database dump
+0026.432 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_stats.table.tmpr0.gz (266/140/fopen): adding to final database dump
+0026.433 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_stats.table.gz (267/140/fopen): adding to final database dump
+0026.433 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_user_logs.table.tmpr16.gz (268/140/fopen): adding to final database dump
+0026.433 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_user_logs.table.gz (269/140/fopen): adding to final database dump
+0026.434 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_user_meta.table.tmpr0.gz (270/140/fopen): adding to final database dump
+0026.434 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_newsletter_user_meta.table.gz (271/140/fopen): adding to final database dump
+0026.434 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_logs.table.tmpr0.gz (272/140/fopen): adding to final database dump
+0026.435 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_logs.table.gz (273/140/fopen): adding to final database dump
+0026.435 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (274/140/fopen): adding to final database dump
+0026.436 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_payment_meta.table.gz (275/140/fopen): adding to final database dump
+0026.436 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_payments.table.tmpr0.gz (276/140/fopen): adding to final database dump
+0026.436 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_payments.table.gz (277/140/fopen): adding to final database dump
+0026.437 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_tasks_meta.table.tmpr5.gz (278/140/fopen): adding to final database dump
+0026.437 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db-table-wp_wpforms_tasks_meta.table.gz (279/140/fopen): adding to final database dump
+0026.441 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db.gz: finished writing out complete database file (1078.6 KB)
+0026.490 (0) Total database tables backed up: 140 (backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db.gz, size: 1104570, sha1: 5ba8afbe1673c830729b9f435eeaf833d67abccf, sha256: 67a69db43389def9d50901e2161260751ce7330c16ecd1e87b7852154d3055f5)
+0026.495 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-plugins.zip: plugins: This file has already been successfully uploaded
+0026.495 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-themes.zip: themes: This file has already been successfully uploaded
+0026.495 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-uploads.zip: uploads: This file has already been successfully uploaded
+0026.496 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-others.zip: others: This file has already been successfully uploaded
+0026.496 (0) backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0026.496 (0) Saving backup history. Total backup size: 166.2 MB
+0026.498 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0026.500 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0026.501 (0) No remote despatch: user chose no remote backup service
+0026.502 (0) Recording as successfully uploaded: backup_2024-07-25-0419_Dental_Clinic_3f78395b4b2e-db.gz
+0026.503 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0026.504 (0) Number of backup sets in history: 3; groups (db): 1
+0026.504 (0) Examining (for databases) backup set with group_id=0, nonce=3f78395b4b2e, datestamp=1721881159 (Jul 25 2024 04:19:19)
+0026.504 (0) This backup set is the backup set just made, so will not be deleted.
+0026.504 (0) Examining (for databases) backup set with group_id=0, nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0026.504 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0026.504 (0) Examining (for databases) backup set with group_id=0, nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0026.504 (0) 1721368858: db: this set includes a database (backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-db.gz); db count is now 2
+0026.504 (0) 1721368858: db: over retain limit (2); will delete this database
+0026.504 (0) Delete file: backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-db.gz, service=none
+0026.505 (0) Deleting local copy (backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-db.gz)
+0026.506 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0026.507 (0) Number of backup sets in history: 3; groups (files): 1
+0026.507 (0) Examining (for files) backup set with nonce=3f78395b4b2e, datestamp=1721881159 (Jul 25 2024 04:19:19)
+0026.507 (0) This backup set is the backup set just made, so will not be deleted.
+0026.507 (0) This backup set is the backup set just made, so will not be deleted.
+0026.507 (0) This backup set is the backup set just made, so will not be deleted.
+0026.508 (0) This backup set is the backup set just made, so will not be deleted.
+0026.508 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0026.508 (0) Examining (for files) backup set with nonce=8d60d4a999aa, datestamp=1721383984 (Jul 19 2024 10:13:04)
+0026.508 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0026.508 (0) Examining (for files) backup set with nonce=7c14ab9fad40, datestamp=1721368858 (Jul 19 2024 06:00:58)
+0026.508 (0) plugins: over retain limit (2); will delete this file entity
+0026.508 (0) themes: over retain limit (2); will delete this file entity
+0026.508 (0) uploads: over retain limit (2); will delete this file entity
+0026.508 (0) others: over retain limit (2); will delete this file entity
+0026.508 (0) Delete file: backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-uploads.zip, service=none
+0026.508 (0) Deleting local copy (backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-uploads.zip)
+0026.510 (0) Delete file: backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-others.zip, service=none
+0026.511 (0) Deleting local copy (backup_2024-07-19-0600_Dental_Clinic_7c14ab9fad40-others.zip)
+0026.512 (0) This backup set is now empty; will remove from history
+0026.512 (0) Deleting log file (log.7c14ab9fad40.txt)
+0026.512 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0026.514 (0) Resume backup (3f78395b4b2e, 0): finish run
+0026.515 (0) Decremented the semaphore (fd) by 1
+0026.515 (0) Semaphore (fd) unlocked
+0026.516 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0026.518 (0) No email will/can be sent - the user has not configured an email address.
+0026.518 (0) The backup succeeded and is now complete
